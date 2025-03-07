@@ -16,26 +16,23 @@ const transactions: Transaction[] = [
   {
     id: "1",
     type: "Sold",
-    amount: "100,000,000",
-    currency: "$Flepe",
+    currency: "$Kumo #82",
     address: "0x6da9...8149",
-    avatar: "/placeholder.svg?height=24&width=24",
+    avatar: "https://pbs.twimg.com/profile_images/1821538395841060866/ZCyh88yJ_400x400.jpg",
   },
   {
     id: "2",
     type: "Sold",
-    amount: "316,776.19",
-    currency: "$DOGE",
+    currency: "$Sizu #42",
     address: "0xc963...0891",
-    avatar: "/placeholder.svg?height=24&width=24",
+    avatar: "https://pbs.twimg.com/profile_images/1873961061159755776/g9DigXps_400x400.jpg",
   },
   {
     id: "3",
     type: "Bought",
-    amount: "491,166.67",
-    currency: "$GOOSE",
+    currency: "$Axol #91",
     address: "0xc963...0891",
-    avatar: "/placeholder.svg?height=24&width=24",
+    avatar: "https://pbs.twimg.com/profile_images/1838427603817873408/ChHYQNF6_400x400.jpg",
   },
   // Add more transactions as needed
 ]
