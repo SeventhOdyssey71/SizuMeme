@@ -46,7 +46,7 @@ const stakedNFTs = [
   {
     id: 5,
     name: "Sizu #301",
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://pbs.twimg.com/media/GlXTCWlXMAA7HUC?format=jpg&name=900x900",
     collection: "Sizu Collection",
     rarity: "Legendary",
     stakedAt: new Date(Date.now() - 86400000 * 15), // 15 days ago
@@ -56,7 +56,7 @@ const stakedNFTs = [
   {
     id: 6,
     name: "Axol #42",
-    image: "/placeholder.svg?height=300&width=300",
+    image: "https://pbs.twimg.com/media/GladGxVWcAEb_xZ?format=jpg&name=large",
     collection: "Axol Collection",
     rarity: "Rare",
     stakedAt: new Date(Date.now() - 86400000 * 7), // 7 days ago
