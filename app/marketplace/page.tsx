@@ -97,7 +97,7 @@ export default function Home() {
                   floorPrice="15"
                 />
                 <NFTCard
-                  image="https://pbs.twimg.com/media/GkQIYMsWMAELRI4?format=jpg&name=medium"
+                  image="https://pbs.twimg.com/media/GlGLpDmX0AAWbp_?format=jpg&name=large"
                   title="Azur Collection"
                   verified
                   floorPrice="25"
