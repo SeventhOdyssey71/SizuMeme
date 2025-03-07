@@ -124,7 +124,7 @@ export default function Home() {
                 .map((_, i) => (
                   <NFTCard
                     key={i}
-                    image="https://pbs.twimg.com/media/GkQIYMsWMAELRI4?format=jpg&name=medium"
+                    image="https://pbs.twimg.com/media/GlGLpDmX0AAWbp_?format=jpg&name=large"
                     title={`Azur Collection #${i + 1}`}
                     verified
                     floorPrice="29"
